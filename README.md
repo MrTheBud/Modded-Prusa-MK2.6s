@@ -1,4 +1,4 @@
-<img width="1305" height="1305" alt="image" src="https://github.com/user-attachments/assets/604e3086-0e09-49db-84aa-bc8f1c9b364e" /># Modded-Prusa-MK2.6s
+# Modded-Prusa-MK2.6s
 
 My MK2.5S mods done to it which I call it now an Prusa MK2.6s
 
